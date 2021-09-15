@@ -1,0 +1,103 @@
+
+
+h3 {
+    font-size: 18px;
+    font-weight: 400;
+}
+
+h2 {
+    font-size: 32px;
+    font-weight: 400;
+    color: #1886C7;
+    text-transform: uppercase;
+}
+
+
+p em{
+    font-size: 14px;
+    color: #d8e1e6;
+}
+
+.display-5 {
+    font-size: 0.7rem;
+    font-weight: 100;
+    line-height: 0.8;
+  }
+
+
+
+/* menü */
+
+.nav1{
+
+   background-color: rgba(7, 101, 110, 0.212);
+   
+}
+
+
+.altmenu ul {
+  display: block!important;
+}
+.altmenu ul li {
+float: left;
+
+}
+.altmenu ul li a{
+   
+}
+
+
+#nvbCollapse ul li div button{
+    color: antiquewhite;
+    margin-left: 5px;
+    
+}
+
+.dropdown-menu {
+    width: 100px;
+    background-color:  rgba(7, 101, 110, 0.212)
+
+}
+
+#giris {
+ position: ;
+color: rgba(0, 255, 255, 0.281);
+text-align: center;
+}
+
+.nav-link:hover {
+    color: #3b7496 !important;
+}
+
+#headerSection {
+    background: url('../img/sajad-nori-uRIil5LFBaI-unsplash.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+#headerSection .row {
+    z-index: 1;
+    height: 100vh;
+}
+#headerSection span {
+    color: #1886C7 !important;
+}
+
+.btn-outline-info {
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 0;
+   
+}
+
+.br-1{
+    border-right: cornsilk 1px solid ;
+}
+
+
+
+@media screen and ( max-width:576px ) {
+    .display-3 {
+    font-size: 24px;
+}
+}
